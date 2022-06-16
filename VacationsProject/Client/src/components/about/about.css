@@ -1,0 +1,42 @@
+.about {
+    background: #ffffff9e;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about p {
+    font-size: 18px;
+}
+.about h1 {
+    background: darkslategray;
+    color: white;
+    margin: 0;
+}
+
+.about h3 {
+    background: darkslategray;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.about .user ,.admin  {
+    background: white;
+    border: 5px solid darkslategray;
+    height: 160px;
+    width: 450px;
+    margin: 20px;
+}
+
+.about .Technologies{
+    background: white;
+    border: 5px solid darkslategray;
+    height: 170px;
+    width: 450px;
+    margin: 20px;
+    margin-top: 5px;
+}
+
+.about .one ,.two{
+    display: inline-flex;
+}
